@@ -1,4 +1,4 @@
-# movie_info
+# Flick-Fusion
 
 A new Flutter project.
 
